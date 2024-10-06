@@ -54,7 +54,7 @@
 To run this project locally:
 
 ```bash
-git clone https://github.com/yourusername/fittrack-pro.git
+git clone https://github.com/StefanHritcu/FitTrack-Pro.git
 cd fittrack-pro
 npm install
 npm run dev
